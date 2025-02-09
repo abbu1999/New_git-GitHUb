@@ -1,1 +1,1 @@
-# New_git-GitHUb
+## This repo contains my shell script for Mac os.
